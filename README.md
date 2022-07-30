@@ -5,4 +5,6 @@ application up and running.
 
 Things you may want to cover:
 
-2022/7/30のRails Girls Tokyoで作成したWebアプリケーションです
+2022/7/30のRails Girls Tokyoで作成したWebアプリケーションです、
+
+すきなお寿司はマグロです
